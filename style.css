@@ -135,7 +135,7 @@
   }
   
   #navbar > ul > li:hover {
-    text-decoration: underline ;
+    text-transform: uppercase ;
     color: var(--blue);
     cursor: pointer;
   }
