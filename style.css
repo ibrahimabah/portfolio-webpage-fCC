@@ -366,8 +366,7 @@
     }
     
     footer a:hover {
-    color: var(--blue);
-    background: var(--gray);
+    color: var(--brown);
     /* transform: translateY(8px); */
     }
   
