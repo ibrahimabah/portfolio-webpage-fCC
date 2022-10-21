@@ -135,8 +135,8 @@
   }
   
   #navbar > ul > li:hover {
-    background-color: #dfdfe2;
-    color: #1b1b32;
+    text-decoration: underline ;
+    color: var(--blue);
     cursor: pointer;
   }
   
